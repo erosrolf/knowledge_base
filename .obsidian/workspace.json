@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "c7a19d552cb80d35",
+    "type": "split",
+    "children": [
+      {
+        "id": "88e658c32b9bb116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbe1e8da4df9e9e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/STL/Контейнеры.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc3e5c1f8a2fb508",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c59e0e16fcf2438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adeece47f3bfb2ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db8aadd315a040ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7d1d7c4453b6f5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05254bc0a17660ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "395b2f746dc17ef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f26ddc5f84561d69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++/STL/Контейнеры.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0dce696178cac71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++/STL/Контейнеры.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a8274311b2d5b4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b80156ce37fa335e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++/STL/Контейнеры.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "dbe1e8da4df9e9e1",
+  "lastOpenFiles": [
+    "C++/STL/Vector.md",
+    "C++/STL/Контейнеры.md",
+    "C++/STL/STL.md",
+    "C++/Абстрактный класс.md"
+  ]
+}
