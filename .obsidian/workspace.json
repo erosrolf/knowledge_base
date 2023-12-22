@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a2606b614b62ef9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/STL/Последовательные контейнеры/Последовательный контейнер (sequential container).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/STL/Последовательные контейнеры/Последовательный контейнер (sequential container).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/STL/Последовательные контейнеры/Последовательный контейнер (sequential container).md"
+                "file": "README.md"
               }
             }
           }
@@ -147,8 +161,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "adeece47f3bfb2ac",
+  "active": "2a2606b614b62ef9",
   "lastOpenFiles": [
+    "C++/STL/Последовательные контейнеры/Последовательный контейнер (sequential container).md",
+    "README.md",
     "C++/STL/Ассоциативные контейнеры",
     "C++/STL/Адаптеры контейнеров",
     "C++/STL/Последовательные контейнеры",
@@ -168,7 +184,6 @@
     "files/Aggregation-Composition3.png",
     "C++/STL/Адаптеры контейнеров/Адаптеры контейнеров.md",
     "адаптера контейнера.md",
-    "C++/STL/Последовательные контейнеры/Последовательный контейнер (sequential container).md",
     "C++/STL/Последовательные контейнеры/Vector.md",
     "C++/STL/Ассоциативные контейнеры/Set.md",
     "C++/STL/Строковые потоки.md",
