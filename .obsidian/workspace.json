@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/STL/Последовательные контейнеры/Последовательный контейнер (sequential container).md",
+                "file": "C++/STL/Последовательные контейнеры/Deque.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/STL/Последовательные контейнеры/Последовательный контейнер (sequential container).md",
+                "file": "C++/STL/Последовательные контейнеры/Deque.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/STL/Последовательные контейнеры/Последовательный контейнер (sequential container).md",
+                "file": "C++/STL/Последовательные контейнеры/Deque.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/STL/Последовательные контейнеры/Последовательный контейнер (sequential container).md"
+                "file": "C++/STL/Последовательные контейнеры/Deque.md"
               }
             }
           }
@@ -149,6 +149,12 @@
   },
   "active": "dbe1e8da4df9e9e1",
   "lastOpenFiles": [
+    "C++/STL/Последовательные контейнеры/Последовательный контейнер (sequential container).md",
+    "C++/STL/Последовательные контейнеры/Vector.md",
+    "C++/STL/Последовательные контейнеры/List.md",
+    "Последовательный контейнер/Vector.md",
+    "C++/STL/Последовательные контейнеры/Deque.md",
+    "Последовательный контейнер",
     "C++/STL/Ассоциативные контейнеры/Set.md",
     "C++/STL/Ассоциативные контейнеры/Multiset.md",
     "C++/STL/Ассоциативные контейнеры/Multimap.md",
@@ -168,18 +174,14 @@
     "files/Pasted image 20231221181153.png",
     "Диаграмма классов.md",
     "Pasted image 20231222165818.png.md",
-    "C++/STL/Последовательные контейнеры/Последовательный контейнер (sequential container).md",
     "C++/STL/Ассоциативные контейнеры",
     "C++/STL/Адаптеры контейнеров",
     "C++/STL/Последовательные контейнеры",
     "C++/Шаблон класса.md",
     "C++/STL/Агрегирование.md",
-    "C++/STL/Последовательные контейнеры/Deque.md",
-    "C++/STL/Последовательные контейнеры/List.md",
     "C++/STL/Контейнеры.md",
     "C++/STL/STL.md",
     "адаптера контейнера.md",
-    "C++/STL/Последовательные контейнеры/Vector.md",
     "C++/STL/Строковые потоки.md",
     "files/STL_UML.png"
   ]
