@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/STL/Deque.md",
+                "file": "C++/STL/Queue.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/STL/Deque.md",
+                "file": "C++/STL/Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/STL/Deque.md",
+                "file": "C++/STL/Queue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/STL/Deque.md"
+                "file": "C++/STL/Queue.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "dbe1e8da4df9e9e1",
   "lastOpenFiles": [
+    "C++/STL/Stack.md",
+    "C++/STL/Queue.md",
     "C++/STL/Контейнеры.md",
     "C++/STL/STL.md",
-    "C++/STL/Queue.md",
     "C++/STL/Deque.md",
-    "C++/STL/Stack.md",
     "C++/STL/Multiset.md",
     "адаптера контейнера.md",
     "C++/STL/Адаптеры контейнеров.md",
