@@ -26,3 +26,4 @@
 
 >[!info]- Полезная информация
 > [исходный код на github](https://github.com/gcc-mirror/gcc/blob/master/libstdc%2B%2B-v3/include/bits/stl_deque.h)
+> [cppreference.com](https://en.cppreference.com/w/cpp/container/deque)
