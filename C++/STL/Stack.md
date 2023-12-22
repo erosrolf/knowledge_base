@@ -1,5 +1,5 @@
 ***
-Один из контейнеров [[STL]] 
+Один из контейнеров [STL](STL.md)
 >для подключения: `#include <stack>`.
 
 > template <class и typedef> одно и то же
