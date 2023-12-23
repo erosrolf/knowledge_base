@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Переопределение стандартных типов.md",
+                "file": "C++/Псевдонимы и определения типов.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Переопределение стандартных типов.md",
+                "file": "C++/Псевдонимы и определения типов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Переопределение стандартных типов.md",
+                "file": "C++/Псевдонимы и определения типов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Переопределение стандартных типов.md"
+                "file": "C++/Псевдонимы и определения типов.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "dbe1e8da4df9e9e1",
   "lastOpenFiles": [
     "C++/STL/Контейнеры.md",
-    "C++/Переопределение стандартных типов.md",
+    "C++/Псевдонимы и определения типов.md",
     "files/STL_UML.png",
     "C++/STL/STL.md",
     "C++/STL/Последовательные контейнеры/Последовательный контейнер (sequential container).md",
