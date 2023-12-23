@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Шаблон класса.md",
+                "file": "C++/STL/Адаптеры контейнеров/Stack.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Шаблон класса.md",
+                "file": "C++/STL/Адаптеры контейнеров/Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Шаблон класса.md",
+                "file": "C++/STL/Адаптеры контейнеров/Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Шаблон класса.md"
+                "file": "C++/STL/Адаптеры контейнеров/Stack.md"
               }
             }
           }
@@ -163,12 +163,13 @@
   },
   "active": "5d8b3efcdb833a8c",
   "lastOpenFiles": [
+    "Pasted image 20231223135811.png",
+    "C++/Шаблон класса.md",
     "C++/STL/Адаптеры контейнеров/Stack.md",
     "C++/STL/Адаптеры контейнеров/Адаптеры контейнеров.md",
     "C++/STL/Итераторы.md",
     "C++/STL/Контейнеры.md",
     "C++/Абстрактный класс.md",
-    "C++/Шаблон класса.md",
     "C++/Псевдонимы и определения типов.md",
     "C++/Агрегация и композиция.md",
     "files/AbstractUnit.cc.md",
@@ -199,7 +200,6 @@
     "Pasted image 20231222165818.png.md",
     "C++/STL/Ассоциативные контейнеры",
     "C++/STL/Адаптеры контейнеров",
-    "C++/STL/Последовательные контейнеры",
-    "C++/STL/Агрегирование.md"
+    "C++/STL/Последовательные контейнеры"
   ]
 }
