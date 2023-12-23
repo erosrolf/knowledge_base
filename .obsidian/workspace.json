@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Псевдонимы и определения типов.md",
+                "file": "C++/Шаблон класса.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Псевдонимы и определения типов.md",
+                "file": "C++/Шаблон класса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Псевдонимы и определения типов.md",
+                "file": "C++/Шаблон класса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Псевдонимы и определения типов.md"
+                "file": "C++/Шаблон класса.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "dbe1e8da4df9e9e1",
   "lastOpenFiles": [
-    "Последовательный контейнер/Vector.md",
     "C++/Псевдонимы и определения типов.md",
+    "Последовательный контейнер/Vector.md",
     "C++/STL/Последовательные контейнеры/Deque.md",
     "C++/STL/Ассоциативные контейнеры/Set.md",
     "C++/STL/Ассоциативные контейнеры/Multiset.md",
