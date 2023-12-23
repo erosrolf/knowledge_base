@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/STL/Адаптеры контейнеров/Stack.md",
+                "file": "C++/Ключевое слово Static.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/STL/Адаптеры контейнеров/Stack.md",
+                "file": "C++/Ключевое слово Static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/STL/Адаптеры контейнеров/Stack.md",
+                "file": "C++/Ключевое слово Static.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/STL/Адаптеры контейнеров/Stack.md"
+                "file": "C++/Ключевое слово Static.md"
               }
             }
           }
@@ -163,14 +163,15 @@
   },
   "active": "5d8b3efcdb833a8c",
   "lastOpenFiles": [
+    "C++/Псевдонимы и определения типов.md",
+    "C++/Ключевое слово Static.md",
+    "C++/STL/Адаптеры контейнеров/Stack.md",
     "Pasted image 20231223135811.png",
     "C++/Шаблон класса.md",
-    "C++/STL/Адаптеры контейнеров/Stack.md",
     "C++/STL/Адаптеры контейнеров/Адаптеры контейнеров.md",
     "C++/STL/Итераторы.md",
     "C++/STL/Контейнеры.md",
     "C++/Абстрактный класс.md",
-    "C++/Псевдонимы и определения типов.md",
     "C++/Агрегация и композиция.md",
     "files/AbstractUnit.cc.md",
     "C++/STL/Строки.md",
