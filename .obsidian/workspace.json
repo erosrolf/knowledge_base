@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Ключевое слово Static.md",
+                "file": "C++/Псевдонимы и определения типов.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Ключевое слово Static.md",
+                "file": "C++/Псевдонимы и определения типов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Ключевое слово Static.md",
+                "file": "C++/Псевдонимы и определения типов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Ключевое слово Static.md"
+                "file": "C++/Псевдонимы и определения типов.md"
               }
             }
           }
@@ -163,14 +163,15 @@
   },
   "active": "5d8b3efcdb833a8c",
   "lastOpenFiles": [
-    "C++/Псевдонимы и определения типов.md",
+    "C++/STL/Контейнеры.md",
+    "C++/STL/STL.md",
     "C++/Ключевое слово Static.md",
+    "C++/Псевдонимы и определения типов.md",
     "C++/STL/Адаптеры контейнеров/Stack.md",
     "Pasted image 20231223135811.png",
     "C++/Шаблон класса.md",
     "C++/STL/Адаптеры контейнеров/Адаптеры контейнеров.md",
     "C++/STL/Итераторы.md",
-    "C++/STL/Контейнеры.md",
     "C++/Абстрактный класс.md",
     "C++/Агрегация и композиция.md",
     "files/AbstractUnit.cc.md",
@@ -183,7 +184,6 @@
     "C++/STL/Ассоциативные контейнеры/Multiset.md",
     "C++/STL/Последовательные контейнеры/Vector.md",
     "C++/STL/Последовательные контейнеры/Последовательный контейнер (sequential container).md",
-    "C++/STL/STL.md",
     "C++/STL/Строковые потоки.md",
     "Последовательный контейнер/Vector.md",
     "Диаграмма классов.md",
