@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Псевдонимы и определения типов.md",
+                "file": "C++/STL/Итераторы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "итерато",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Псевдонимы и определения типов.md",
+                "file": "C++/STL/Итераторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Псевдонимы и определения типов.md",
+                "file": "C++/STL/Итераторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Псевдонимы и определения типов.md"
+                "file": "C++/STL/Итераторы.md"
               }
             }
           }
@@ -163,13 +164,13 @@
   },
   "active": "5d8b3efcdb833a8c",
   "lastOpenFiles": [
+    "C++/Шаблон класса.md",
+    "C++/Псевдонимы и определения типов.md",
     "C++/STL/Контейнеры.md",
     "C++/STL/STL.md",
     "C++/Ключевое слово Static.md",
-    "C++/Псевдонимы и определения типов.md",
     "C++/STL/Адаптеры контейнеров/Stack.md",
     "Pasted image 20231223135811.png",
-    "C++/Шаблон класса.md",
     "C++/STL/Адаптеры контейнеров/Адаптеры контейнеров.md",
     "C++/STL/Итераторы.md",
     "C++/Абстрактный класс.md",
