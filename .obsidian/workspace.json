@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/STL/Итераторы.md",
+                "file": "C++/STL/Адаптеры контейнеров/Stack.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "итерато",
+                "query": "stack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/STL/Итераторы.md",
+                "file": "C++/STL/Контейнеры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/STL/Итераторы.md",
+                "file": "C++/STL/Контейнеры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/STL/Итераторы.md"
+                "file": "C++/STL/Контейнеры.md"
               }
             }
           }
@@ -162,22 +161,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d8b3efcdb833a8c",
+  "active": "dbe1e8da4df9e9e1",
   "lastOpenFiles": [
+    "C++/STL/Адаптеры контейнеров/Stack.md",
+    "Последовательный контейнер/Deque.md",
+    "Последовательный контейнер",
+    "C++/STL/Контейнеры.md",
+    "C++/STL/Последовательные контейнеры/Deque.md",
+    "C++/STL/Итераторы.md",
     "C++/Шаблон класса.md",
     "C++/Псевдонимы и определения типов.md",
-    "C++/STL/Контейнеры.md",
     "C++/STL/STL.md",
     "C++/Ключевое слово Static.md",
-    "C++/STL/Адаптеры контейнеров/Stack.md",
     "Pasted image 20231223135811.png",
     "C++/STL/Адаптеры контейнеров/Адаптеры контейнеров.md",
-    "C++/STL/Итераторы.md",
     "C++/Абстрактный класс.md",
     "C++/Агрегация и композиция.md",
     "files/AbstractUnit.cc.md",
     "C++/STL/Строки.md",
-    "C++/STL/Последовательные контейнеры/Deque.md",
     "C++/STL/Адаптеры контейнеров/Queue.md",
     "C++/STL/Ассоциативные контейнеры/Map.md",
     "C++/STL/Ассоциативные контейнеры/Multimap.md",
@@ -191,7 +192,6 @@
     "files/Pasted image 20231222174739.png",
     "files/STL_UML.png",
     "C++/STL/Последовательные контейнеры/List.md",
-    "Последовательный контейнер",
     "README.md",
     "files/uml_простая_ассоциация.png",
     "files/uml_наследование.png",
@@ -199,7 +199,6 @@
     "files/obsidian_start_window.png",
     "files/Pasted image 20231221181119.png",
     "files/Pasted image 20231221181153.png",
-    "Pasted image 20231222165818.png.md",
     "C++/STL/Ассоциативные контейнеры",
     "C++/STL/Адаптеры контейнеров",
     "C++/STL/Последовательные контейнеры"
