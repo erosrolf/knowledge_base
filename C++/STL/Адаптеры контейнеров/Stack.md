@@ -9,7 +9,7 @@ Stack (стек) является [адаптером контейнеров](А
 ```c++
 // инициализация стека
 std::Stack<int> int_stack_into_deque; // без явного указания типа
-std::Stack<int>, <std::vector<int>> int_stack_into_vector; // с указанием
+std::Stack<int, std::vector<int>> int_stack_into_vector; // с указанием
 ```
 
 Из примера выше, можно заметить, что `stack` использует 2 [шаблона класса](../../Шаблон%20класса.md):
