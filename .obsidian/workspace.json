@@ -26,15 +26,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Псевдонимы и определения типов.md",
+                "file": "C++/STL/Адаптеры контейнеров/Адаптеры контейнеров.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "e229685821dfd722",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Псевдонимы и определения типов.md",
+                "file": "C++/STL/Адаптеры контейнеров/Адаптеры контейнеров.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Псевдонимы и определения типов.md",
+                "file": "C++/STL/Адаптеры контейнеров/Адаптеры контейнеров.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Псевдонимы и определения типов.md"
+                "file": "C++/STL/Адаптеры контейнеров/Адаптеры контейнеров.md"
               }
             }
           }
@@ -161,12 +171,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5d8b3efcdb833a8c",
+  "active": "e229685821dfd722",
   "lastOpenFiles": [
-    "C++/Абстрактный класс.md",
-    "C++/Псевдонимы и определения типов.md",
-    "C++/Ключевое слово Static.md",
     "C++/Агрегация и композиция.md",
+    "C++/Псевдонимы и определения типов.md",
+    "C++/Абстрактный класс.md",
+    "C++/Ключевое слово Static.md",
     "C++/Шаблон класса.md",
     "Последовательный контейнер/Deque.md",
     "Последовательный контейнер",
