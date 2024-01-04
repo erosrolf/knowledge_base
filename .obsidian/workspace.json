@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/STL/Адаптеры контейнеров/Stack.md",
+                "file": "C++/Шаблон класса.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/STL/Адаптеры контейнеров/Stack.md",
+                "file": "C++/STL/Контейнеры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/STL/Адаптеры контейнеров/Stack.md",
+                "file": "C++/STL/Контейнеры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/STL/Адаптеры контейнеров/Stack.md"
+                "file": "C++/STL/Контейнеры.md"
               }
             }
           }
@@ -174,8 +174,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e229685821dfd722",
+  "active": "adeece47f3bfb2ac",
   "lastOpenFiles": [
+    "C++/STL/Адаптеры контейнеров/Stack.md",
     "C++/STL/Контейнеры.md",
     "C++/STL/Строки.md",
     "C++/STL/Строковые потоки.md",
@@ -185,7 +186,6 @@
     "C++/Псевдонимы и определения типов.md",
     "C++/Шаблон класса.md",
     "C++/STL/Адаптеры контейнеров/Адаптеры контейнеров.md",
-    "C++/STL/Адаптеры контейнеров/Stack.md",
     "C++/STL/Последовательные контейнеры/Deque.md",
     "C++/STL/Последовательные контейнеры/List.md",
     "C++/STL/Последовательные контейнеры/Vector.md",
