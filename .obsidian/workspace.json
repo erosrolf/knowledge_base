@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Шаблон класса.md",
+                "file": "files/AbstractUnit.cc.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/STL/Контейнеры.md",
+                "file": "files/AbstractUnit.cc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/STL/Контейнеры.md",
+                "file": "files/AbstractUnit.cc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/STL/Контейнеры.md"
+                "file": "files/AbstractUnit.cc.md"
               }
             }
           }
@@ -174,17 +174,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "adeece47f3bfb2ac",
+  "active": "e229685821dfd722",
   "lastOpenFiles": [
-    "C++/STL/Адаптеры контейнеров/Stack.md",
+    "C++/Абстрактный класс.md",
+    "C++/Шаблон класса.md",
     "C++/STL/Контейнеры.md",
+    "C++/STL/Адаптеры контейнеров/Stack.md",
     "C++/STL/Строки.md",
     "C++/STL/Строковые потоки.md",
-    "C++/Абстрактный класс.md",
     "C++/Агрегация и композиция.md",
     "C++/Ключевое слово Static.md",
     "C++/Псевдонимы и определения типов.md",
-    "C++/Шаблон класса.md",
     "C++/STL/Адаптеры контейнеров/Адаптеры контейнеров.md",
     "C++/STL/Последовательные контейнеры/Deque.md",
     "C++/STL/Последовательные контейнеры/List.md",
