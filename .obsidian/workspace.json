@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/STL/Последовательные контейнеры/Deque.md",
+                "file": "C++/Агрегация и композиция.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/STL/Последовательные контейнеры/Deque.md",
+                "file": "C++/Агрегация и композиция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/STL/Последовательные контейнеры/Deque.md",
+                "file": "C++/Агрегация и композиция.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/STL/Последовательные контейнеры/Deque.md"
+                "file": "C++/Агрегация и композиция.md"
               }
             }
           }
@@ -176,8 +176,8 @@
   },
   "active": "e229685821dfd722",
   "lastOpenFiles": [
-    "C++/STL/Последовательные контейнеры/Vector.md",
     "C++/STL/Последовательные контейнеры/Deque.md",
+    "C++/STL/Последовательные контейнеры/Vector.md",
     "C++/STL/Последовательные контейнеры/List.md",
     "C++/STL/Ассоциативные контейнеры/Multiset.md",
     "C++/STL/Ассоциативные контейнеры/Multimap.md",
